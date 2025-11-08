@@ -4,3 +4,4 @@ project(cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_subdirectory(template_zero_overhead_abstraction)
+add_subdirectory(curiously_recurring_template_pattern)
